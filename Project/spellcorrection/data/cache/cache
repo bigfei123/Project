@@ -1,0 +1,19 @@
+{
+   "all" : {
+      "cao" : [ "cap", "cab", "cat", "car", "ca", "cal" ],
+      "ci" : [ "i", "c", "ii", "ai", "vi", "co" ],
+      "gi" : [ "i", "go", "ii", "g", "ai", "vi" ],
+      "hao " : [ "hand", "hair", "hard", "hot", "hate", "hat" ],
+      "heelo" : [ "heels", "heel", "hello", "help", "held", "feel" ],
+      "hello" : [ "hello", "hell", "hullo", "hallo", "tell", "fell" ],
+      "hellp\b\b" : [ "help", "helped", "hell", "helper", "helps", "hellish" ],
+      "hi" : [ "hi", "he", "his", "i", "him", "hid" ],
+      "ls" : [ "lo", "os", "lb", "li", "lis", "ly" ],
+      "world" : [ "world", "word", "worlds", "lord", "words", "work" ],
+      "不好" : [ "不好", "不", "不是", "不同", "不能", "不仅" ],
+      "你好" : [ "你", "好", "做好", "抓好", "最好", "美好" ],
+      "好" : [ "好", "做好", "抓好", "最好", "美好", "不好" ],
+      "最好" : [ "最好", "最", "最高", "好", "最后", "最大" ],
+      "此时" : [ "此时", "时", "同时", "当时", "此", "有时" ]
+   }
+}
