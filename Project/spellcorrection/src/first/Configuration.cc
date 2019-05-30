@@ -21,7 +21,7 @@ Configuration * Configuration::getInstance(){
 	if (!_pInstance){
 		//这里把配置文件路径写死了，也可以给getInstance方法添加string参数
 		//默认值为string()，然后在主函数里调用getInstance并传入配置文件路径
-		_pInstance = new Configuration("/home/dafei/project/spellcorrection_stu/conf/dict.conf");
+		_pInstance = new Configuration("/home/dafei/Project/spellcorrection/conf/dict.conf");
 		atexit(destroy);
 	}
 	return _pInstance;

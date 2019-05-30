@@ -66,7 +66,7 @@ void Cache::addElement(string key, string value){
 		if (it->second != _cache.begin()){
 			_cache.splice(_cache.begin(), _cache, it->second);
 		}
-		_hashMap[key] = _cache.begin();//更新hashmap中对该纪录的迭代器
+		_hashMap[key] = _cache.begin();//更新hashmap中对该记录的迭代器
 	}
 }
 

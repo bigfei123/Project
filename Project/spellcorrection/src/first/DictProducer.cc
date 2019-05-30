@@ -81,7 +81,7 @@ void DictProducer::buildDict(){
 }
 
 void DictProducer::getFiles(){
-	DIR * dir = opendir(_dir.c_str());
+	DIR * dir = opendir(_dir.c_str());//打开一个与符合该文件名相关的文件流,返回指向该文件流的指针
 	if (!dir){
 		LogError("No such dirctory");
 	}

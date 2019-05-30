@@ -11,7 +11,8 @@ int main(void){
 	//cout << dict::getConfig("dictionarySourceFile") << endl;
 	dict::SplitToolCppJieba jieba;
 	//这里传参就是使用jieba，创建中文词典;不传参是英文词典
-	dict::DictProducer dict(&jieba);
+	//dict::DictProducer dict(&jieba);
+	dict::DictProducer dict;
 	dict.buildDict();
 	dict.buildIndex();
 	dict.store();

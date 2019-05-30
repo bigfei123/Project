@@ -454,3 +454,118 @@
 2019-03-21 20:59:24,288 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/project/spellcorrection_stu/data/dictionary/cn/C3-Art0015.txt" success
 2019-03-21 20:59:24,311 myLog [INFO] [src/first/DictProducer.cc-buildDict-80] Build dict.dat success
 2019-03-21 20:59:24,361 myLog [INFO] [src/first/DictProducer.cc-buildIndex-143] Create index.dat success
+2019-04-25 20:01:04,511 myLog [ERROR] [src/first/Configuration.cc-init-39] Open config file "/home/dafei/project/spellcorrection_stu/conf/dict.conf" failed
+2019-04-25 20:03:02,736 myLog [ERROR] [src/first/Configuration.cc-init-39] Open config file "/home/dafei/project/spellcorrection_stu/conf/dict.conf" failed
+2019-04-25 20:03:50,212 myLog [ERROR] [src/first/Configuration.cc-init-39] Open config file "/home/dafei/project/spellcorrection_stu/conf/dict.conf" failed
+2019-04-25 20:05:19,946 myLog [INFO] [src/first/Configuration.cc-init-42] Open config file "/home/dafei/Project/spellcorrection/conf/dict.conf" success
+2019-04-25 20:05:21,977 myLog [INFO] [src/first/DictProducer.cc-getStopWordsDict-105] Open stopwords dictionary file "/home/dafei/Project/spellcorrection/data/stopWords/cn/stop_words" success
+2019-04-25 20:05:21,978 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0009.txt" to dictionary files
+2019-04-25 20:05:21,978 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0029.txt" to dictionary files
+2019-04-25 20:05:21,979 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0013.txt" to dictionary files
+2019-04-25 20:05:21,979 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0027.txt" to dictionary files
+2019-04-25 20:05:21,979 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0023.txt" to dictionary files
+2019-04-25 20:05:21,980 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0003.txt" to dictionary files
+2019-04-25 20:05:21,980 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0039.txt" to dictionary files
+2019-04-25 20:05:21,980 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0041.txt" to dictionary files
+2019-04-25 20:05:21,981 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0021.txt" to dictionary files
+2019-04-25 20:05:21,981 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0045.txt" to dictionary files
+2019-04-25 20:05:21,982 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0019.txt" to dictionary files
+2019-04-25 20:05:21,982 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/1.txt" to dictionary files
+2019-04-25 20:05:21,983 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0031.txt" to dictionary files
+2019-04-25 20:05:21,983 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0035.txt" to dictionary files
+2019-04-25 20:05:21,984 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0002.txt" to dictionary files
+2019-04-25 20:05:21,984 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0043.txt" to dictionary files
+2019-04-25 20:05:21,984 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0025.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0033.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0007.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0037.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0017.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0011.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0005.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0015.txt" to dictionary files
+2019-04-25 20:05:21,985 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0009.txt" success
+2019-04-25 20:05:22,032 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0029.txt" success
+2019-04-25 20:05:22,053 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0013.txt" success
+2019-04-25 20:05:22,103 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0027.txt" success
+2019-04-25 20:05:22,160 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0023.txt" success
+2019-04-25 20:05:22,205 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0003.txt" success
+2019-04-25 20:05:22,228 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0039.txt" success
+2019-04-25 20:05:22,247 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0041.txt" success
+2019-04-25 20:05:22,299 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0021.txt" success
+2019-04-25 20:05:22,335 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0045.txt" success
+2019-04-25 20:05:22,368 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0019.txt" success
+2019-04-25 20:05:22,437 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/1.txt" success
+2019-04-25 20:05:22,439 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0031.txt" success
+2019-04-25 20:05:22,512 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0035.txt" success
+2019-04-25 20:05:22,548 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0002.txt" success
+2019-04-25 20:05:22,567 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0043.txt" success
+2019-04-25 20:05:22,619 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0025.txt" success
+2019-04-25 20:05:22,650 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0033.txt" success
+2019-04-25 20:05:22,671 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0007.txt" success
+2019-04-25 20:05:22,698 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0037.txt" success
+2019-04-25 20:05:22,744 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0017.txt" success
+2019-04-25 20:05:22,771 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0011.txt" success
+2019-04-25 20:05:22,811 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0005.txt" success
+2019-04-25 20:05:22,841 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0015.txt" success
+2019-04-25 20:05:22,870 myLog [INFO] [src/first/DictProducer.cc-buildDict-80] Build dict.dat success
+2019-04-25 20:05:22,924 myLog [INFO] [src/first/DictProducer.cc-buildIndex-143] Create index.dat success
+2019-04-25 20:48:26,504 myLog [INFO] [src/first/Configuration.cc-init-42] Open config file "/home/dafei/Project/spellcorrection/conf/dict.conf" success
+2019-04-25 20:48:28,550 myLog [INFO] [src/first/DictProducer.cc-getStopWordsDict-105] Open stopwords dictionary file "/home/dafei/Project/spellcorrection/data/stopWords/cn/stop_words" success
+2019-04-25 20:48:28,551 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0009.txt" to dictionary files
+2019-04-25 20:48:28,552 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0029.txt" to dictionary files
+2019-04-25 20:48:28,552 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0013.txt" to dictionary files
+2019-04-25 20:48:28,552 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0027.txt" to dictionary files
+2019-04-25 20:48:28,553 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0023.txt" to dictionary files
+2019-04-25 20:48:28,553 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0003.txt" to dictionary files
+2019-04-25 20:48:28,553 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0039.txt" to dictionary files
+2019-04-25 20:48:28,554 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0041.txt" to dictionary files
+2019-04-25 20:48:28,554 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0021.txt" to dictionary files
+2019-04-25 20:48:28,554 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0045.txt" to dictionary files
+2019-04-25 20:48:28,555 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0019.txt" to dictionary files
+2019-04-25 20:48:28,555 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/1.txt" to dictionary files
+2019-04-25 20:48:28,556 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0031.txt" to dictionary files
+2019-04-25 20:48:28,556 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0035.txt" to dictionary files
+2019-04-25 20:48:28,556 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0002.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0043.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0025.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0033.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0007.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0037.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0017.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0011.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0005.txt" to dictionary files
+2019-04-25 20:48:28,557 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0015.txt" to dictionary files
+2019-04-25 20:48:28,558 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0009.txt" success
+2019-04-25 20:48:28,606 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0029.txt" success
+2019-04-25 20:48:28,627 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0013.txt" success
+2019-04-25 20:48:28,678 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0027.txt" success
+2019-04-25 20:48:28,733 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0023.txt" success
+2019-04-25 20:48:28,776 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0003.txt" success
+2019-04-25 20:48:28,800 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0039.txt" success
+2019-04-25 20:48:28,816 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0041.txt" success
+2019-04-25 20:48:28,866 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0021.txt" success
+2019-04-25 20:48:28,901 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0045.txt" success
+2019-04-25 20:48:28,935 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0019.txt" success
+2019-04-25 20:48:29,005 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/1.txt" success
+2019-04-25 20:48:29,006 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0031.txt" success
+2019-04-25 20:48:29,079 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0035.txt" success
+2019-04-25 20:48:29,112 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0002.txt" success
+2019-04-25 20:48:29,129 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0043.txt" success
+2019-04-25 20:48:29,176 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0025.txt" success
+2019-04-25 20:48:29,204 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0033.txt" success
+2019-04-25 20:48:29,221 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0007.txt" success
+2019-04-25 20:48:29,250 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0037.txt" success
+2019-04-25 20:48:29,293 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0017.txt" success
+2019-04-25 20:48:29,321 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0011.txt" success
+2019-04-25 20:48:29,361 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0005.txt" success
+2019-04-25 20:48:29,390 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/cn/C3-Art0015.txt" success
+2019-04-25 20:48:29,420 myLog [INFO] [src/first/DictProducer.cc-buildDict-80] Build dict.dat success
+2019-04-25 20:48:29,476 myLog [INFO] [src/first/DictProducer.cc-buildIndex-143] Create index.dat success
+2019-04-25 21:11:16,689 myLog [INFO] [src/first/Configuration.cc-init-42] Open config file "/home/dafei/Project/spellcorrection/conf/dict.conf" success
+2019-04-25 21:11:18,870 myLog [INFO] [src/first/DictProducer.cc-getStopWordsDict-105] Open stopwords dictionary file "/home/dafei/Project/spellcorrection/data/stopWords/en/stop_words" success
+2019-04-25 21:11:18,873 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/en/english.txt" to dictionary files
+2019-04-25 21:11:18,873 myLog [DEBUG] [src/first/DictProducer.cc-getFiles-96] add "/home/dafei/Project/spellcorrection/data/dictionary/en/The_Holy_Bible.txt" to dictionary files
+2019-04-25 21:11:18,873 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/en/english.txt" success
+2019-04-25 21:11:19,535 myLog [INFO] [src/first/DictProducer.cc-buildDict-54] Open dictionary file "/home/dafei/Project/spellcorrection/data/dictionary/en/The_Holy_Bible.txt" success
+2019-04-25 21:11:19,951 myLog [INFO] [src/first/DictProducer.cc-buildDict-80] Build dict.dat success
+2019-04-25 21:11:20,284 myLog [INFO] [src/first/DictProducer.cc-buildIndex-143] Create index.dat success

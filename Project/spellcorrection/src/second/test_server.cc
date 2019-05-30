@@ -14,7 +14,7 @@ using namespace mysp;
 int main()
 {
 
-	Configuration::getInstance("/home/dafei/project/spellcorrection_stu/conf/server.conf");
+	Configuration::getInstance("/home/dafei/Project/spellcorrection/conf/server.conf");
 
 	Dictionary::getInstance()->initDict(getConfig("dictName"));
 	Dictionary::getInstance()->initIndex(getConfig("indexName"));
